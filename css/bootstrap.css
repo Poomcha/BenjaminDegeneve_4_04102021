@@ -88,6 +88,11 @@ textarea {
     overflow: auto
 }
 
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
 @media print {
